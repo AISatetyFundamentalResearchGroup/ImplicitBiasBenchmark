@@ -1,5 +1,6 @@
 # BUMBLE Benchmark
 
+A bilingual(English&Chinese) benchmark for implicit bias evaluation in Large Language Models using psychometric attack methods
 
 ## Run evaluations
 
